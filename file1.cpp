@@ -8,7 +8,11 @@ int main(){
     cout << "ini string" << endl;
     cout << 123 << endl;
     cout << umur;
-    
+
 } 
 
+
+int main() {
+    
+}
 
